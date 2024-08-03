@@ -9,7 +9,7 @@ Um processo empírico é uma forma de modelar a diferença entre a distribuiçã
 #### Principais Conceitos:
 
 1. **Distribuição Empírica:**
-   - A distribuição empírica \(F_n(x)\) é calculada com base nos dados da amostra. Se você medir as alturas de \(n\) pessoas, \(F_n(x)\) representa a proporção de pessoas cuja altura é menor ou igual a \(x\).
+   - A distribuição empírica usa a fórmula \(F_n(x)\) que realiza seu cálculo com base nos dados da amostra. Se você medir as alturas de \(n\) pessoas, \(F_n(x)\) representa a proporção de pessoas cuja altura é menor ou igual a \(x\). Através dessa fórmula simples, representa-se o conceito do empirísmo, que nada mais é do que o aprendizado através da coleta e análise de dados, resultando na experiência.
 
 2. **Lei dos Grandes Números:**
    - Este princípio afirma que, conforme o tamanho da amostra aumenta, a distribuição empírica se aproxima da distribuição verdadeira. Ou seja, quanto mais pessoas você medir, mais precisa será a sua estimativa da distribuição de alturas na cidade.
